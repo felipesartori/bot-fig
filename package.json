@@ -1,0 +1,20 @@
+{
+    "name": "bot-fig",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "ts-node index.ts"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@open-wa/wa-automate": "^4.30.0",
+        "express": "^4.17.1",
+        "rss-to-json": "^2.0.2",
+        "to": "^0.2.9",
+        "update": "^0.7.4",
+        "wa-me-generator": "^1.2.1",
+        "wa-sticker-formatter": "^4.1.2"
+    }
+}
